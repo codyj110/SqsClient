@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqsClient", "sqsClient\sqsClient.csproj", "{0EE22142-F60B-4700-95D3-552E8BC36D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqsClientTests", "sqsClientTests\sqsClientTests.csproj", "{FB51FB6D-D450-4CBD-A2C9-2BCCD680E0F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE22142-F60B-4700-95D3-552E8BC36D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE22142-F60B-4700-95D3-552E8BC36D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE22142-F60B-4700-95D3-552E8BC36D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE22142-F60B-4700-95D3-552E8BC36D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB51FB6D-D450-4CBD-A2C9-2BCCD680E0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB51FB6D-D450-4CBD-A2C9-2BCCD680E0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB51FB6D-D450-4CBD-A2C9-2BCCD680E0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB51FB6D-D450-4CBD-A2C9-2BCCD680E0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
